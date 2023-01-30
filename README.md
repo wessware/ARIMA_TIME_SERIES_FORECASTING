@@ -16,3 +16,12 @@ Farm machineries are an integral part of small scale & large scale farming in Ke
 to be very challenging. This can be attributed to an array of factors that affect the demand for/of farm machineries at different times of the year.
 This project deploys Time Series Analysis & Forecasting methods to understand (analyze) income generation from a select farm machinery owner for a period of ~10 months. 
 The analysis (and forecasting) is based on the machine's usage for transport services & ploughing - analyzed on daily, monthly, yearly, and date-wise usage. 
+
+## Intention 
+From the Time Series Analysis, the project intends to create a hypothetical understanding on machinery demands at different times of the years, the type of machinery 
+deployments to anticipate at different times of the years, and the (average) income generated from different machinery deployments (at different times of the year).
+
+From the Time Series Forecasting, the project intends to provide the owner with daily, weekly, monthly, and date-wise projections of expected income to be generated
+from the farm machineries. 
+It is the hypothetical intention of this project that the insights gained herein, will help farm machinery owner's to properly plan the usage, and management of their 
+farm machinery to ensure ROI, longevity, optimal income generation. 
