@@ -50,6 +50,6 @@ farm machinery to ensure ROI, longevity, optimal income generation.
 </ol/>
 
 ## Related
-<a href src=''>Arima Time Series Analysis & Forecasting: Machine Learning & Deep Learning Models</a>
+<a href src='https://github.com/wessware/time_series_forecasting_linear_ml_models'>Arima Time Series Analysis & Forecasting: Machine Learning & Deep Learning Models</a>
 
 ## Publication
