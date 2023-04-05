@@ -77,6 +77,8 @@ farm machinery to ensure ROI, longevity, optimal income generation.
 ## Output Visualizations 
 ### ARIMA
 ![download (1)](https://user-images.githubusercontent.com/46624127/229986778-4ea45845-f171-4417-8f81-06d5a4e50b70.png)
+### Auto ARIMA
+![download (2)](https://user-images.githubusercontent.com/46624127/229987208-8e6a4c8d-ab3b-4d70-b2be-f7ab4b619b24.png)
 
 ## Related
 <a href src='https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING' target='_blank'>Arima Time Series Analysis & Forecasting </a>
