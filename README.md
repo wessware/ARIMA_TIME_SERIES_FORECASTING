@@ -74,6 +74,10 @@ farm machinery to ensure ROI, longevity, optimal income generation.
   <li>GRU         ==    4858.5181</li/>
 </ol/>
 
+## Output Visualizations 
+### ARIMA
+![download (1)](https://user-images.githubusercontent.com/46624127/229986778-4ea45845-f171-4417-8f81-06d5a4e50b70.png)
+
 ## Related
 <a href src='https://github.com/wessware/ARIMA_TIME_SERIES_FORECASTING' target='_blank'>Arima Time Series Analysis & Forecasting </a>
 
